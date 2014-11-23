@@ -13,7 +13,7 @@ makeCacheMatrix <- function(x = matrix()) {
   
   # set
   set <- function(newMatrix){
-    print("in set")
+    # print("in set")
     x <<- newMatrix;
     inverseX <<- NULL;
   }
