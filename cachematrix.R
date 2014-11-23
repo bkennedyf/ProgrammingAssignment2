@@ -1,4 +1,4 @@
-## makeCacheMatrix creates a list of functions that opperate on "internal" variables
+## makeCacheMatrix creates a list of functions that operate on "internal" variables
 #  allowing a matrix and its inverse to be cached
 ## cacheSolve returns the inverse of a matrix that has been defined by makeCacheMatrix,
 #  it retrieves the cached value if it exists, otherwise it calculates the inverse and 
